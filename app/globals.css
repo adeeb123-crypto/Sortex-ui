@@ -20,8 +20,23 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/* .hero-main{
+  background: radial-gradient(circle at 50% 50%,#4b5563, #2a3549, #111827);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+} */
+
+
+
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
 }
+
+
